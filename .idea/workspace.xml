@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4b67168-4dae-4d74-839b-c2d87b8d77de" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2yYHz16BRxDjJSCgPqGAbuPpcj8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HandleAutoSuggesstionDropdown.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocatorsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximizeBrowser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.second_class.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.AllAnnotations.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AssertionDemo.testTitle.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Automation testing/Selenium-java/src/test/java/Day15/myfile.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Automation testing/Selenium-java/src/test/java/Day15/xml.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Automation testing/Selenium-java/src/test/java/Day17/grouping.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Automation testing/Selenium-java/src/test/java/Day20/testNG.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DependancyMethods.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DependancyMethods.openApp.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SignupTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;99d58e05&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Automation testing/Selenium-java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.AllAnnotations">
+    <configuration name="HandleAutoSuggesstionDropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day7.HandleAutoSuggesstionDropdown" />
+      <module name="my_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximizeBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day13.MaximizeBrowser" />
+      <module name="my_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllAnnotations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="my_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day16" />
+      <option name="MAIN_CLASS_NAME" value="Day16.AllAnnotations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Automation testing/Selenium-java/src/test/java/Day17/grouping.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="my_automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Day17/grouping.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignupTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="my_automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day17" />
+      <option name="MAIN_CLASS_NAME" value="Day17.SignupTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AllAnnotations" />
+        <item itemvalue="TestNG.D:/Automation testing/Selenium-java/src/test/java/Day17/grouping.xml" />
+        <item itemvalue="TestNG.SignupTest" />
+        <item itemvalue="Application.HandleAutoSuggesstionDropdown" />
+        <item itemvalue="Application.MaximizeBrowser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4b67168-4dae-4d74-839b-c2d87b8d77de" name="Changes" comment="" />
+      <created>1750004845719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750004845719</updated>
+    </task>
+    <servers />
+  </component>
+</project>
